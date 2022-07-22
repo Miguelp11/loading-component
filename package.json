@@ -1,0 +1,22 @@
+{
+  "name": "template-component",
+  "version": "1.0.0",
+  "description": "Template inicial para crear componentes con Lit",
+  "main": "component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "polymer serve -o"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javaScript",
+    "Lit"
+  ],
+  "author": "Miguel Ponce",
+  "license": "ISC",
+  "dependencies": {
+    "lit-element": "^2.2.1",
+    "polymer-cli": "^1.9.11"
+  }
+}
